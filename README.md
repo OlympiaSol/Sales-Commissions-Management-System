@@ -26,6 +26,4 @@ The project is centered around the comprehensive reengineering of a Java applica
   - Expansion of the application's capabilities to include processing input from HTML files, utilizing appropriate HTML tags to structure the information.
   - Implementation of functionality to generate and store sales representative reports in HTML format, ensuring the data is organized and accessible.
 
-#### Deliverables Preparation:
-The project's culmination involves preparing a comprehensive report and other deliverables to document the refactoring efforts, enhancements, and testing procedures. This documentation is crucial for ensuring clarity and transparency regarding the changes made and the methodologies applied throughout the project's lifecycle.
 
