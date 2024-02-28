@@ -29,4 +29,3 @@ The project is centered around the comprehensive reengineering of a Java applica
 #### Deliverables Preparation:
 The project's culmination involves preparing a comprehensive report and other deliverables to document the refactoring efforts, enhancements, and testing procedures. This documentation is crucial for ensuring clarity and transparency regarding the changes made and the methodologies applied throughout the project's lifecycle.
 
-This detailed overview encapsulates the project's scope, highlighting the strategic refactoring tasks and extensions aimed at transforming the application into a more robust, efficient, and user-friendly system.
